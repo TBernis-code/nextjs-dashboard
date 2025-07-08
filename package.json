@@ -7,12 +7,15 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "@neondatabase/serverless": "^1.0.1",
     "@tailwindcss/forms": "^0.5.10",
     "autoprefixer": "10.4.20",
-    "bcrypt": "^5.1.1",
+    "bcrypt": "latest",
     "clsx": "^2.1.1",
+    "dotenv": "^17.0.1",
     "next": "latest",
     "next-auth": "5.0.0-beta.25",
+    "pg": "^8.16.3",
     "postcss": "8.5.1",
     "postgres": "^3.4.6",
     "react": "latest",
@@ -35,3 +38,4 @@
     ]
   }
 }
+
